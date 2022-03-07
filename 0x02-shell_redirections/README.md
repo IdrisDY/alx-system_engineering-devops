@@ -1,1 +1,1 @@
-echo outputs the input to the standard display
+echo outputs the input to the standard display.
